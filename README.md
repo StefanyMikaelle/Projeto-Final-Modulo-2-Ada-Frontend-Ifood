@@ -1,6 +1,7 @@
 
 - Lógica de Programação - Projeto final ADA
-O que?
+    Descrição do desafio
+        
 Desenvolver, utilizando os conceitos abordados ao longo do módulo, uma aplicação de lista de tarefas (ToDo List).
 
 ---
